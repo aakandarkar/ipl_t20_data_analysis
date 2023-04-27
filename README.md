@@ -1,6 +1,11 @@
 IPL-T20 Web Scraping and Data Analysis 
 By Akash Kandarkar
 
+Steps :
+1) install Required packages from requirement.txt
+2) scrape data using files in scrape folder
+3) run dashboard.py
+
 Data Source :
 1) https://www.iplt20.com/ (official IPL website)
 
